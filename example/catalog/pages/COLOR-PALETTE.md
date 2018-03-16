@@ -36,7 +36,7 @@ span: 1
 ```
 
 ```color
-value: #F5F5F5'
+value: '#F5F5F5'
 name: 'secondary-30'
 span: 1
 ```
