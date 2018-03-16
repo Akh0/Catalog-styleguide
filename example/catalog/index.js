@@ -3,7 +3,11 @@ import ReactDOM from 'react-dom';
 import {Catalog} from 'catalog';
 
 const pages = [
-  {path: '/', title: 'Welcome', component: require('./WELCOME.md')}
+    {path: '/', title: 'Welcome', component: require('./pages/WELCOME.md')},
+    {path: '/color-palette', title: 'Color Palette', component: require('./pages/COLOR-PALETTE.md')},
+    {path: '/typography', title: 'Typography', component: require('./pages/TYPOGRAPHY.md')},
+    {path: '/grid', title: 'Grid', component: require('./pages/GRID.md')},
+    {path: '/sxa', title: 'SXA', component: require('./pages/WELCOME.md')}
 ];
 
 ReactDOM.render(
