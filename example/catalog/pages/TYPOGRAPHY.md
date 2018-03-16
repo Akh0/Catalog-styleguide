@@ -1,8 +1,6 @@
 ## Google fonts
 To embed Google fonts, copy this code into the <head> of your HTML document.
-```html
-<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto:400,400i,700,700i" rel="stylesheet">
-```
+`<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto:400,400i,700,700i" rel="stylesheet">`
 
 ### Roboto
 
