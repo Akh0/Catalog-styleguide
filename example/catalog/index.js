@@ -8,7 +8,8 @@ const pages = [
     {path: '/typography', title: 'Typography', component: require('./pages/TYPOGRAPHY.md')},
     {path: '/grid', title: 'Grid', component: require('./pages/GRID.md')},
     {path: '/buttons', title: 'Buttons', component: require('./pages/BUTTONS.md')},
-    {path: '/card', title: 'Card', component: require('./pages/CARD.md')}
+    {path: '/card', title: 'Card', component: require('./pages/CARD.md')},
+    {path: '/accordion', title: 'Accordion', component: require('./pages/ACCORDION.md')}
 ];
 
 ReactDOM.render(
