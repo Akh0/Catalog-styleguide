@@ -7,7 +7,7 @@ const pages = [
     {path: '/color-palette', title: 'Color Palette', component: require('./pages/COLOR-PALETTE.md')},
     {path: '/typography', title: 'Typography', component: require('./pages/TYPOGRAPHY.md')},
     {path: '/grid', title: 'Grid', component: require('./pages/GRID.md')},
-    {path: '/sxa', title: 'SXA', component: require('./pages/WELCOME.md')}
+    {path: '/buttons', title: 'Buttons', component: require('./pages/BUTTONS.md')}
 ];
 
 ReactDOM.render(
